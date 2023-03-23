@@ -1,8 +1,8 @@
 p::before{
 	content:"Before Element";
-	color:#ff0000; 
+	color:rgb(255,0,0);  
 }
 p::after{
 	content:"After Element"; 
-	color:#ff0000;     
+	color:rgb(255,0,0);      
 } 
