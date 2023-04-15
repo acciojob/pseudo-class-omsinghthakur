@@ -4,11 +4,11 @@
   p::before { 
     content: "Before Element";
     font-size: 20px;
-    color: #f00;
+    color: rgb(255, 0, 0);
   }
   p::after {
     content: "After Element";
     font-size: 20px;
-    color: #f00; 
+    color: rgb(255, 0, 0); 
   }
  
